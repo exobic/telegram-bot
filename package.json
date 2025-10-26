@@ -24,6 +24,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "engines": {
+    "node": "22.x"
+  },
   "dependencies": {
     "dotenv": "^17.2.3",
     "node-telegram-bot-api": "^0.61.0"
